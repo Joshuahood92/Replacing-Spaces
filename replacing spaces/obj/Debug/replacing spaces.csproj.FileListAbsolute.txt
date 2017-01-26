@@ -1,0 +1,5 @@
+c:\users\joshua hood\documents\visual studio 2015\Projects\replacing spaces\replacing spaces\bin\Debug\replacing spaces.exe.config
+c:\users\joshua hood\documents\visual studio 2015\Projects\replacing spaces\replacing spaces\bin\Debug\replacing spaces.exe
+c:\users\joshua hood\documents\visual studio 2015\Projects\replacing spaces\replacing spaces\bin\Debug\replacing spaces.pdb
+c:\users\joshua hood\documents\visual studio 2015\Projects\replacing spaces\replacing spaces\obj\Debug\replacing spaces.exe
+c:\users\joshua hood\documents\visual studio 2015\Projects\replacing spaces\replacing spaces\obj\Debug\replacing spaces.pdb
